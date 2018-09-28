@@ -1,1 +1,2 @@
 This is a file on branch feature/xFeature, it is single
+^%%%%%%%%%^%^%^%^%%^
